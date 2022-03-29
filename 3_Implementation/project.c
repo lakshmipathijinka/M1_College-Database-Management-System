@@ -65,7 +65,7 @@ void printHead()
     printf("\n");
     printChar('=',120);
     printf("\n\t\t\t\t\t  [COLLEGE DATABASE MANAGEMENT SYSTEM]");
-    printf("\n\n\t\t\t\t        IIMT COLLEGE OF ENGINEERING, GREATER NOIDA");
+    printf("\n\n\t\t\t\t        kare");
     printf("\n");
     printChar('=',120);
     printf("\n");
